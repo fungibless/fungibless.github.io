@@ -3488,6 +3488,11 @@ section.loader_first {
   display: inline-block;
 }
 
+.footer-listing .footer-icon-list img {
+  width: min(100px, 21vw);
+  height: auto;
+}
+
 .footer-listing .footer-icon-list i {
   color: #fff;
   background-color: #1a1b30;
